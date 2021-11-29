@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCounter", "StringCounter\StringCounter.csproj", "{B8F79141-5AE5-4EE6-8AE1-AFA1ADA556A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCounterTest", "StringCounterTest\StringCounterTest.csproj", "{B54D97F4-881F-4024-80FE-CD5828DBAA86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F79141-5AE5-4EE6-8AE1-AFA1ADA556A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F79141-5AE5-4EE6-8AE1-AFA1ADA556A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F79141-5AE5-4EE6-8AE1-AFA1ADA556A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F79141-5AE5-4EE6-8AE1-AFA1ADA556A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54D97F4-881F-4024-80FE-CD5828DBAA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54D97F4-881F-4024-80FE-CD5828DBAA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54D97F4-881F-4024-80FE-CD5828DBAA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54D97F4-881F-4024-80FE-CD5828DBAA86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
